@@ -23,6 +23,12 @@ You might not have many prompt ideas, so here some of my go to prompts :
 - Which restaurant does have french fries in their menu ?
 - What is the menu in Restaurant Boutonnet ?
 
+
+## Usage of AI to write this code.
+
+To write this project I read a lot of documentation and technical blogs. I also use supermaven as an AI code completion tool.
+
+
 ## Architecture
 
 I implemented an MCP server in ruby that provides the following tools:
