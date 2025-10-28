@@ -38,7 +38,6 @@ Here are the source code for the different services displayed on that architectu
 - [Frontend](https://github.com/Courtcircuits/HackTheCrous.web) (written in React + Tailwind CSS)
 - [Hack the crous API](https://github.com/Courtcircuits/HackTheCrous.api) (written in Ruby)
 - [Hack the crous scraper](https://github.com/Courtcircuits/HackTheCrous.crawler) (written in Rust)
-- [Hack the crous ](https://github.com/Courtcircuits/HackTheCrous.crawler) (written in Rust)
 
 Most of the infrastructure, except the AI agent is hosted on a kubernetes cluster that I deployed on a VPS.
 [Here is the helm charts that I wrote to deploy Hack The Crous](https://github.com/Courtcircuits/HackTheCrous.charts). 
